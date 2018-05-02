@@ -1,0 +1,221 @@
+# depslib dependency file v1.0
+1489213898 source:e:\tubes\tubes\main.cpp
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<iostream>
+	"listbuku.h"
+	"listpenulis.h"
+	"relasi.h"
+	"menu.h"
+
+1488614496 source:e:\tubes\tubes\listpenulis.cpp
+	"listpenulis.h"
+
+1489214774 source:e:\tubes\tubes\listbuku.cpp
+	"listbuku.h"
+
+1488099170 e:\tubes\tubes\listbuku.h
+	<stdio.h>
+	<iostream>
+	<cstddef>
+	<string>
+
+1488100905 e:\tubes\tubes\listpenulis.h
+	<stdio.h>
+	<iostream>
+	<cstddef>
+	<string>
+
+1489216250 source:e:\tubes\tubes\relasi.cpp
+	"relasi.h"
+
+1488100087 e:\tubes\tubes\relasi.h
+	"listbuku.h"
+	"relasi.h"
+	"listpenulis.h"
+	<iostream>
+
+1489213329 e:\tubes\tubes\menu.h
+	<iostream>
+	"listbuku.h"
+	"listpenulis.h"
+	"relasi.h"
+
+1489218472 source:e:\tubes\tubes\menu.cpp
+	"menu.h"
+	"listbuku.h"
+	"listpenulis.h"
+	"relasi.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1490697850 source:f:\tubes\tube\tubes\tubes\listbuku.cpp
+	"listbuku.h"
+
+1490094716 f:\tubes\tube\tubes\tubes\listbuku.h
+	<stdio.h>
+	<iostream>
+	<cstddef>
+	<string>
+
+1490698423 source:f:\tubes\tube\tubes\tubes\listpenulis.cpp
+	"listpenulis.h"
+
+1490669892 f:\tubes\tube\tubes\tubes\listpenulis.h
+	<stdio.h>
+	<iostream>
+	<cstddef>
+	<string>
+
+1490687552 source:f:\tubes\tube\tubes\tubes\main.cpp
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<iostream>
+	"listbuku.h"
+	"listpenulis.h"
+	"relasi.h"
+	"menu.h"
+
+1490701741 f:\tubes\tube\tubes\tubes\relasi.h
+	"listbuku.h"
+	"relasi.h"
+	"listpenulis.h"
+	<iostream>
+
+1490626217 f:\tubes\tube\tubes\tubes\menu.h
+	<iostream>
+	"listbuku.h"
+	"listpenulis.h"
+	"relasi.h"
+
+1490701305 source:f:\tubes\tube\tubes\tubes\relasi.cpp
+	"relasi.h"
+
+1490701741 source:f:\tubes\tube\tubes\tubes\menu.cpp
+	"menu.h"
+	"listbuku.h"
+	"listpenulis.h"
+	"relasi.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1490697850 source:e:\program\listbuku.cpp
+	"listbuku.h"
+
+1490094716 e:\program\listbuku.h
+	<stdio.h>
+	<iostream>
+	<cstddef>
+	<string>
+
+1490698423 source:e:\program\listpenulis.cpp
+	"listpenulis.h"
+
+1490669892 e:\program\listpenulis.h
+	<stdio.h>
+	<iostream>
+	<cstddef>
+	<string>
+
+1490687552 source:e:\program\main.cpp
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<iostream>
+	"listbuku.h"
+	"listpenulis.h"
+	"relasi.h"
+	"menu.h"
+
+1490701741 e:\program\relasi.h
+	"listbuku.h"
+	"relasi.h"
+	"listpenulis.h"
+	<iostream>
+
+1490626217 e:\program\menu.h
+	<iostream>
+	"listbuku.h"
+	"listpenulis.h"
+	"relasi.h"
+
+1490702127 source:e:\program\relasi.cpp
+	"relasi.h"
+
+1490702289 source:e:\program\menu.cpp
+	"menu.h"
+	"listbuku.h"
+	"listpenulis.h"
+	"relasi.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1490697850 source:c:\users\msi gl62\downloads\program\program\listbuku.cpp
+	"listbuku.h"
+
+1490094716 c:\users\msi gl62\downloads\program\program\listbuku.h
+	<stdio.h>
+	<iostream>
+	<cstddef>
+	<string>
+
+1524909391 source:c:\users\msi gl62\downloads\program\program\listpenulis.cpp
+	"listpenulis.h"
+
+1490669892 c:\users\msi gl62\downloads\program\program\listpenulis.h
+	<stdio.h>
+	<iostream>
+	<cstddef>
+	<string>
+
+1490687552 source:c:\users\msi gl62\downloads\program\program\main.cpp
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<iostream>
+	"listbuku.h"
+	"listpenulis.h"
+	"relasi.h"
+	"menu.h"
+
+1490701741 c:\users\msi gl62\downloads\program\program\relasi.h
+	"listbuku.h"
+	"relasi.h"
+	"listpenulis.h"
+	<iostream>
+
+1490626217 c:\users\msi gl62\downloads\program\program\menu.h
+	<iostream>
+	"listbuku.h"
+	"listpenulis.h"
+	"relasi.h"
+
+1490702289 source:c:\users\msi gl62\downloads\program\program\menu.cpp
+	"menu.h"
+	"listbuku.h"
+	"listpenulis.h"
+	"relasi.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1490702127 source:c:\users\msi gl62\downloads\program\program\relasi.cpp
+	"relasi.h"
+
